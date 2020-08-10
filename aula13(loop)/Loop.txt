@@ -1,0 +1,10 @@
+
+// testes no começo
+whille (condição){
+  comandos qualquer aqui
+}
+
+// testes no final 
+do{
+    comandos qualquer aqui
+} while(condição)

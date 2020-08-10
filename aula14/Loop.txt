@@ -1,0 +1,5 @@
+
+// testes no começo
+ for (inicio;teste; incremento){
+   comandos a serem executatos
+ }
