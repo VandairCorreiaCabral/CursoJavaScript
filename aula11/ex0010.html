@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXTRANGEIROS</title>
+</head>
+<body>
+    <h1>site cidadão</h1>
+    que pais voce mora: <input type="text" name="txtCidade" id="txtPais">
+    <input type="button" value="verificar" onclick="verificar()">
+    <div id="txtRes"></div>
+    <script>
+        function verificar(){
+            var txtP = window.document.querySelector('input#txtPais')
+            var txtR = window.document.querySelector('div#txtRes')
+            var p = String(txtP.value)
+            if(p.toUpperCase() == "Brasil".toUpperCase()){
+                txtR.innerHTML=`<p> voce mora no  ${p} voce é Brasileiro</p>`
+            }else{
+                txtR.innerHTML=`<p> voce mora no  ${p} voce não é Brasileiro</p>`
+            }
+        }
+    </script>
+</body>
+</html>
