@@ -16,3 +16,5 @@ os tipos primitivos do js são:
 - object
     array
 - function
+
+meu teste de conflito no github
