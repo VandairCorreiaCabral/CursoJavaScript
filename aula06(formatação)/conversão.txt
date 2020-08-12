@@ -1,0 +1,12 @@
+conversão em js 
+de string -> numeros
+    number("6")
+    number.parseInt("6")
+    number.parseFloat("6")
+de numeros -> string
+    n.toString()
+    String(n)
+
+template string no js (interpolacao de string)
+nome = 'jose'
+`ai fudeu meu velho ${nome}` -> ai fudeu meu velho jose

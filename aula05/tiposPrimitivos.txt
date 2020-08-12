@@ -18,3 +18,4 @@ os tipos primitivos do js são:
 - function
 
 carai o doido mudou o mesmo arquivo
+meu teste de conflito no github
