@@ -1,0 +1,26 @@
+condicional aninhada  no js
+1) ifs aninhados
+    if (condicao){
+        comandos...
+    }else if(codicao){
+        comandos...        
+    }else if (condicao){
+        comandos...
+    }else{
+        comandos...
+    }
+
+multiplas condicoes no js
+2) switch (expressao){
+    case valor1:
+        comandos...
+        break
+    case valor2:
+        comandos...
+        break
+    defalt :
+        comandos...
+        break
+
+}
+
