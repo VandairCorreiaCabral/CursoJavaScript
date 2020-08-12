@@ -1,8 +1,0 @@
-lista do que continuar a estudar em js 
-1 - funcoes
-2- objetos (classes)
-3 - modularização
-4- regex
-5-json 
-6-ajax 
-7- node.js ou deno.js
