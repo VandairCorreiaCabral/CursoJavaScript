@@ -1,0 +1,13 @@
+é a arvore da pagina do site 
+forma de acessar (selecionar) um elemento do dom 
+1) por marca 
+   var p1 =  getElementsByTagName('p')[0]  // pega o primeiro elemento html tipo paragrafo pelo indice
+        p1.style.color = blue
+2) por id
+    getElementById() 
+3) por nome 
+    getElementsByName()
+4) por classe
+    getElementsByClassName()
+5) por seletor 
+    querySelector() ou querySelectorAll()
