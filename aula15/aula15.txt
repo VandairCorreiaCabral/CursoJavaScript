@@ -1,0 +1,4 @@
+ARRAY EM JS 
+var a = []
+let b = [1,2,3]
+const c = []
