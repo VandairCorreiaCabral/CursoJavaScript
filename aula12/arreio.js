@@ -66,6 +66,9 @@ function forEach(array, action) {
         //console.log(greaterThan10(11));
         // → true
 
+
+
+        
 // passando uma função como parametro de outra função
 console.log("funcao reduce");
 function reduce(array, combine, start) {
